@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzeddinteeti&label=Profile%20views&color=0e75b6&style=flat" alt="izzeddinteeti" /> </p>
 
 - 🔭 I’m currently working on **Predictive Algorithms for Advanced Autonomous Vehicle Perception**
-- I am doing a PhD in Applying Computer Vision and Machine Learning into Autonomous Cars at [**VAIL**]([/guides/content/editing-an-existing-page](https://cms.brookes.ac.uk/staff/FabioCuzzolin/))
+- I am doing a PhD in Applying Computer Vision and Machine Learning into Autonomous Cars at [**VAIL**]([[/guides/content/editing-an-existing-page](https://cms.brookes.ac.uk/staff/FabioCuzzolin/)](https://cms.brookes.ac.uk/staff/FabioCuzzolin/))
 
 - 📫 How to reach me **izzeddin.teeti@gmail.com**
 
