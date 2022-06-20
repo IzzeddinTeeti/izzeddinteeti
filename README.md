@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzeddinteeti&label=Profile%20views&color=0e75b6&style=flat" alt="izzeddinteeti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izzeddinteeti" alt="izzeddinteeti" /></a> </p>
-
 - 🔭 I’m currently working on **Predictive Algorithms for Advanced Autonomous Vehicle Perception**
 
 - 📫 How to reach me **izzeddin.teeti@gmail.com**
