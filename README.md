@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izzeddin Teeti</h1>
 <h3 align="center">A passionate Computer Vision and Machine Learning Engineer and Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzeddinteeti&label=Profile%20views&color=0e75b6&style=flat" alt="izzeddinteeti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzeddinteeti&label=Profile%20views&color=0e75b6&style=plastic" alt="izzeddinteeti" /> </p>
 
 - 🔭 I’m currently working on **Predictive Algorithms for Advanced Autonomous Vehicle Perception**
 - I am doing a PhD in Applying Computer Vision and Machine Learning into Autonomous Cars at [**VAIL**](https://cms.brookes.ac.uk/staff/FabioCuzzolin/)
