@@ -22,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzeddinteeti&count_private=true&show_icons=true&locale=en" alt="izzeddinteeti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzeddinteeti&" alt="izzeddinteeti" /></p>
+
+
+<!-- <h3 align="left">My contributions in the last year:</h3> -->
+### My contributions in the last year:
+![snake gif](https://github.com/izzeddinteeti/izzeddinteeti/blob/output/github-contribution-grid-snake.gif)
