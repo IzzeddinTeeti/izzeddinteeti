@@ -25,5 +25,5 @@
 
 
 <!-- <h3 align="left">My contributions in the last year:</h3> -->
-### My contributions in the last year:
-![snake gif](https://github.com/izzeddinteeti/izzeddinteeti/blob/output/github-contribution-grid-snake.gif)
+<!-- ### My contributions in the last year:
+![snake gif](https://github.com/izzeddinteeti/izzeddinteeti/blob/output/github-contribution-grid-snake.gif) -->
